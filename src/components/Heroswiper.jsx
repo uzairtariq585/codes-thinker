@@ -9,7 +9,7 @@ const slides = [
     {
         image:
             "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
-        title: "Build Something Amazing",
+        title: "Wellcome To Codes Thinker",
         subtitle:
             "Turn your ideas into powerful websites and applications with modern web technologies.",
         button: "Start Coding",
