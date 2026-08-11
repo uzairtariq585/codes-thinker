@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroSwiper from "../components/HeroSwiper";
+import HeroSwiper from "../components/Heroswiper";
 
 function home() {
   return (
