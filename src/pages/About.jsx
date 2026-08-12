@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroSwiper2 from "../components/Heroswiper2";
+import HeroSwiper2 from "../components/HeroSwiper2";
 import About2 from "../components/About2";
 import Bottom2 from "../components/Bottom2";
 
